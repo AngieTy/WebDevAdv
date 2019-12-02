@@ -1,4 +1,4 @@
 # WebDevAdv
 
-My new repository, please be lenient.
-Learning advanced CSS with simple jQuery and JS.
+My very beginning CSS from "Samuraj Programowania" Udemy course. 
+Practicing position styles. Don't look here, please. 
